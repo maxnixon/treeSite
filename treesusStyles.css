@@ -1,0 +1,40 @@
+
+body.background {
+background-color:#40f77a;
+}
+
+h1.Services {
+  font-size: 50px;
+  color:#447f3b;
+  text-align: center;
+   background-color: #aa7840;
+   border-bottom: 1px dashed #999;
+    text-decoration: underline; 
+}
+p {
+  font-size: 35px;
+  color: #995303;
+  background-color:#40f77a;
+  text-align: center;
+}
+
+.title {
+  font-size: 63px;
+  text-align: center;
+  font-weight: bold;
+  background-color: #aa7840;
+  color: #4c2801;
+}
+h2.tableHeader {
+  color:#447f3b;
+  background-color: #aa7840;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: underline; 
+
+  
+}
+table { 
+  width: 100%
+ 
+}
